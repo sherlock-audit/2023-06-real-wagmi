@@ -68,3 +68,19 @@ ___
 
 
 # Audit scope
+
+
+[concentrator @ dcff15564d079f5ff32686ad738873f274de48fd](https://github.com/RealWagmi/concentrator/tree/dcff15564d079f5ff32686ad738873f274de48fd)
+- [concentrator/contracts/Dispatcher.sol](concentrator/contracts/Dispatcher.sol)
+- [concentrator/contracts/DispatcherCode.sol](concentrator/contracts/DispatcherCode.sol)
+- [concentrator/contracts/Factory.sol](concentrator/contracts/Factory.sol)
+- [concentrator/contracts/MultiStrategy.sol](concentrator/contracts/MultiStrategy.sol)
+- [concentrator/contracts/Multipool.sol](concentrator/contracts/Multipool.sol)
+- [concentrator/contracts/MultipoolCode.sol](concentrator/contracts/MultipoolCode.sol)
+- [concentrator/contracts/interfaces/ICode.sol](concentrator/contracts/interfaces/ICode.sol)
+- [concentrator/contracts/interfaces/IDispatcher.sol](concentrator/contracts/interfaces/IDispatcher.sol)
+- [concentrator/contracts/interfaces/IFactory.sol](concentrator/contracts/interfaces/IFactory.sol)
+- [concentrator/contracts/interfaces/IMultiStrategy.sol](concentrator/contracts/interfaces/IMultiStrategy.sol)
+- [concentrator/contracts/interfaces/IMultipool.sol](concentrator/contracts/interfaces/IMultipool.sol)
+
+
